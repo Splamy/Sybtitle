@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sybtitle": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \\\\192.168.178.3\\filehome\\Movies\\Mirai\\Mirai.en.srt -o \\\\192.168.178.3\\filehome\\Movies\\Mirai\\Mirai.rescaled.en.srt --rescale 0 01:32:47.618 0 01:32:42.026 auto"
+    }
+  }
+}
